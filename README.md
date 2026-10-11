@@ -27,7 +27,7 @@ The tool seamlessly connects and fetches live repositories from the following pl
 To download the repository and run the automated installation script, execute the following commands in your terminal:
 
 ```bash
-git clone https://codeberg.org/Firewall-Crusher/Git-backup.git
+git clone https://github.com/UG-ALOK/Git-backup.git
 ```
 ```bash
 cd Git-backup
@@ -51,7 +51,7 @@ bash install.sh
 
 ## 👨‍💻 Developer
 
-* **Developer:** Raj-u
+* **Developer:** ug-alok
 
 ---
 
